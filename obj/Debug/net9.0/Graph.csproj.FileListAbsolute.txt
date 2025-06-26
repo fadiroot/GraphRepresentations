@@ -1,0 +1,14 @@
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/bin/Debug/net9.0/Graph
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/bin/Debug/net9.0/Graph.deps.json
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/bin/Debug/net9.0/Graph.runtimeconfig.json
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/bin/Debug/net9.0/Graph.dll
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/bin/Debug/net9.0/Graph.pdb
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/Graph.GeneratedMSBuildEditorConfig.editorconfig
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/Graph.AssemblyInfoInputs.cache
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/Graph.AssemblyInfo.cs
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/Graph.csproj.CoreCompileInputs.cache
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/Graph.dll
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/refint/Graph.dll
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/Graph.pdb
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/Graph.genruntimeconfig.cache
+/Users/takiacademy/Desktop/datastructure/Solution1/Graph/obj/Debug/net9.0/ref/Graph.dll
